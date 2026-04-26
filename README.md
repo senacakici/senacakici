@@ -1,18 +1,18 @@
-# Hi, I'm Sena Çakıcı 👋
+# Hi, I'm Sena Çakıcı 🔬
 
 I'm a Data Scientist working at the intersection of **machine learning**, **scientific computing**, and **real-world engineering problems**. My work spans from physics-informed models to production-ready ML pipelines.
 
 ---
 
-## 🔬 What I Work On
+##  What I Work On
 
-I'm particularly interested in applying machine learning to domains where the underlying physics or domain knowledge matters — not just fitting a curve, but building models that *understand* the system they're modeling.
+I'm particularly interested in applying machine learning to domains where the underlying physics or domain knowledge matters not just fitting a curve, but building models that *understand* the system they're modeling.
 
 My projects range from **computational chemistry** and **materials science** to **MLOps**, **uncertainty quantification**, and **anomaly detection**. I enjoy problems where the data is messy, the stakes are real, and a clever model can make a genuine difference.
 
 ---
 
-## 🗂️ Selected Projects
+##  Selected Projects
 
 ### 🧪 Physics-Informed & Scientific ML
 
