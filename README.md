@@ -1,6 +1,6 @@
 # Hi, I'm Sena Çakıcı 🔬
 
-I'm a Data Scientist working at the intersection of **machine learning**, **scientific computing**, and **real-world engineering problems**. My work spans from physics-informed models to production-ready ML pipelines.
+I'm a Scientist working at the intersection of **machine learning**, **scientific computing**, and **real-world engineering problems**. My work spans from physics-informed models to production-ready ML pipelines.
 
 ---
 
